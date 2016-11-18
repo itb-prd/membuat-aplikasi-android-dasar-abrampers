@@ -1,0 +1,23 @@
+<resources>
+
+    <string name="app_name">TASKS</string>
+
+    <string name="options_about_text">About</string>
+
+    <string name="options_exit_text">Exit</string>
+
+    <string name="enter_new_title">Change tasks</string>
+
+    <string name="enter_new_name_button">SEND</string>
+
+    <string name="edit_screen_title">Change</string>
+
+    <string name="add_screen_title">Add Task</string>
+
+    <string name="add_new_list">Add Task</string>
+
+    <string name="enter_new_title_hint">Add a new name</string>
+
+    <string name="add_new_list_hint">Add a new task</string>
+
+</resources>
